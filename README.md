@@ -42,40 +42,40 @@
 ### 11. git remote
 * Asociar con repositorio en GITHUB | UNA VEZ
 
-![alt text](image-1.png)
+![alt text](/img/image-11.png)
 ### 12. git push
 * Subir los cambios al servidor nube
 
-![alt text](image-1.png)
+![alt text](/img/image-12.png)
 ### 13. git pull
 * Para descargar todos los cambios subidos en la nube
 
-![alt text](image-1.png)
+![alt text](/img/image-13.png)
 ### 14. git clone < URL >
 * Descargar repositorio GITHUB > GIT (Local)
 
-![alt text](image-1.png)
+![alt text](/img/image-14.png)
 ### 15. git merge
 * Se utiliza para combinar dos ramas
 
-![alt text](image-1.png)
+![alt text](/img/image-15.png)
 ### 16. git diff
 * Para establecer las diferencias en los orígenes de datos de Git
 
-![alt text](image-1.png)
+![alt text](/img/image-16.png)
 ### 17. git stash
 * Guarda temporalmente los cambios en el código que se está desarrollando
 
-![alt text](image-1.png)
+![alt text](/img/image-17.png)
 ### 18. git tag
 * Sirve como una rama firmada que no permuta, es decir, siempre se mantiene inalterable
 
-![alt text](image-1.png)
+![alt text](/img/image-18.png)
 ### 19. git blame
 * Puedes ver quién, ha hecho cambios en un archivo específico, línea por línea.
 
-![alt text](image-1.png)
+![alt text](/img/image-19.png)
 ### 20. git clean
 * Elimina los archivos que no se han rastreado en el directorio de trabajo de Git
 
-![alt text](image-1.png)
+![alt text](/img/image-20.png)
